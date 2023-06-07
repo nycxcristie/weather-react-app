@@ -14,7 +14,7 @@ function App() {
           height={100}
           width={100}
           radius={5}
-          color="orange"
+          color="pink"
           ariaLabel="ball-triangle-loading"
           wrapperClass={{}}
           wrapperStyle=""
